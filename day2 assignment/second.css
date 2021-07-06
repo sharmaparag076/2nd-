@@ -1,0 +1,10 @@
+.one {
+    height: 200px;
+    width: 400px;
+    background-color: red;
+}
+pre {
+    max-height: 200px;
+width: 100px;
+color: red;
+}
